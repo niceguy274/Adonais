@@ -190,4 +190,4 @@ This repository serves as the official landing page for Adonais. The software is
 **Get the most recent version of Adonais today!**
 
 ---
-**Last updated:** 2026-11-08 15:54:14 UTC
+**Last updated:** 2026-11-08 20:20:51 UTC
